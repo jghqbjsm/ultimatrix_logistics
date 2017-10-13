@@ -1,0 +1,12 @@
+--Create table USER:
+
+ create table USER(
+	userID int(4) primary key, 
+	firstName varchar(25) not null, 
+	lastName varchar(25) not null,
+  	userName varchar(20) not null, 
+	password varchar(20) not null, 
+	email varchar(50) not null, 
+	address varchar(100), 
+	phone int(11), 
+	typeID int(2));

@@ -1,0 +1,22 @@
+h1 { font-family:"Times New Roman", Times , serif ;
+		color: darkblue;
+		text-align: center;
+	}
+header{	background-color:OliveDrab  ;
+	 width: 100%; display: table; }
+
+
+
+
+
+footer{
+	text-align:right;
+	background-color:OliveDrab  ;
+	height:30px;
+	
+}
+address{
+	padding-bottom:10px;	
+	padding-left:20px;
+	padding-top:20px;
+}
